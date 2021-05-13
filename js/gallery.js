@@ -1,4 +1,4 @@
-import items from '/gallery-items.js';
+import items from './gallery-items.js';
 
 const galleryContainer = document.querySelector('.js-gallery');
 const GalleryItems = createGalleryItems(items);
